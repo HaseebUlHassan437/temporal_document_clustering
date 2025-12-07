@@ -17,6 +17,7 @@ __pycache__/
 data/enron_extracted/
 data/clustered_emails_raw.csv
 data/*.csv
+data/*.zip
 
 # Models / artifacts
 models/
