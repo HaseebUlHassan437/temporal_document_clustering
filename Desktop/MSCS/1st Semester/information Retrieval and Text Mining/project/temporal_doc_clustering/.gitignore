@@ -1,0 +1,26 @@
+# Virtual environment
+venv/
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Editor/OS
+.vscode/
+.DS_Store
+
+# Environment files
+.env
+
+# Data & large files (adjust if you want some tracked)
+data/enron_extracted/
+data/clustered_emails_raw.csv
+data/*.csv
+
+# Models / artifacts
+models/
+
+# Course deliverables (do not publish by default)
+project_deliverable.txt
+propsal.txt
